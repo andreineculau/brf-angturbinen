@@ -12,6 +12,7 @@
 * [Ordingsregler](ordningsregler.pdf)
 * [Trapphus](trapphus.pdf)
 * [Årsredovisningar](årsredovisning)
+* [Blankett för ombyggnation](ombyggnation.pdf)
 
 ## Länkar
 
