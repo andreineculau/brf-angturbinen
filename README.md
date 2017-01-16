@@ -20,3 +20,4 @@
 * https://www.canaldigitalkabel.se
 * https://www.ownit.se
 * http://www.nackadrift.se
+* http://gamla1.jarlasjo.se/#!home
